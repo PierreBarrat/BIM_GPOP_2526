@@ -3,6 +3,8 @@
 Le projet informatique sur lequel est basé l'examen est dans le document `gpop_project.pdf`. 
 Il sera peut-être sujet à quelques changements (mineurs) dans les prochains jours. 
 
+Les solutions pour les exercices seront déposées ici progressivement. 
+
 ## Cours du 01/10, 08/10 & 09/10 annulés 
 
 Ils seront rattrapés à des dates à préciser. 
