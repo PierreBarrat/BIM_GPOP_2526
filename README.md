@@ -5,7 +5,7 @@ Il sera peut-être sujet à quelques changements (mineurs) dans les prochains jo
 
 Les solutions pour les exercices seront déposées ici progressivement. 
 
-## Cours du 01/10, 08/10 & 09/10 annulés 
+## Cours du 01/10, 08/10 & 09/10 annulés
 
 Ils seront rattrapés à des dates à préciser. 
 Les sujets déjà abordés permettent de commencer à traiter le premier point du projet informatique, si vous le souhaitez. 
